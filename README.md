@@ -20,5 +20,5 @@ Acest proiect include o colecție variată de componente UI pentru Blazor, const
    git clone https://github.com/oleg-meleca/blazor-components.git
 Acest proiect este în continuă dezvoltare, și vom adăuga în mod regulat noi componente și îmbunătățiri. Îți mulțumim pentru interesul tău și sperăm ca Blazor Components să fie de ajutor în proiectele tale!
 
-##Licență
+## Licență
 Acest proiect este licențiat sub Licența MIT.
