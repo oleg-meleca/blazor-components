@@ -45,3 +45,55 @@ Acest proiect este licențiat sub Licența MIT.
 
 ## License (English)
 This project is licensed under the MIT License.
+
+## Lista de componente (RO)
+1. Componente de bază pentru UI
+
+    - **Button** : Buton simplu pentru acțiuni.
+    - **InputText, InputNumber, InputDate** : Componente pentru inputuri de text, numere și date.
+    - **Checkbox, RadioButton** : Componente pentru selecții binare sau opțiuni multiple.
+    - **Select** : Listă derulantă pentru opțiuni.
+    - **Slider** : Selector pentru intervale numerice.
+
+2. Formulare și validare
+
+    - **EditForm** : Container pentru formulare.
+    - **DataAnnotationsValidator** : Validator bazat pe DataAnnotations.
+    - **ValidationSummary** : Rezumat al erorilor de validare.
+    - **InputFile** : Componetă pentru upload de fișiere.
+
+3. Afișare de date
+
+    - **DataGrid** : Tabel interactiv pentru afișarea și manipularea datelor.
+    - **Table** : Tabel simplu, customizabil.
+    - **Chart** : Grafic pentru vizualizarea datelor (necesită biblioteci externe, cum ar fi Chart.js).
+    - **Pagination** : Componenetă pentru paginarea datelor.
+
+4. Navigare și layout
+
+    - **NavLink** : Link pentru navigarea în aplicație.
+    - **Router** : Manager pentru rute.
+    - **Layout** : Template-uri pentru structura paginii.
+    - **Tab** : Interfață pentru organizarea pe file.
+
+5. Interacțiuni și feedback
+
+    - **Dialog / Modal** : Fereastră pentru confirmări și informații suplimentare.
+    - **Toast / Notification** : Mesaje de notificare.
+    - **Loading Spinner** : Indicator de încărcare.
+
+6. Componente multimedia și avansate
+
+    - **Image** : Componentă pentru afișarea de imagini.
+    - **Video / Audio** : Componentă pentru fișiere media.
+    - **Carousel** : Galerie de imagini.
+    - **Map** : Componentă pentru hărți (de obicei integrează API-uri externe, cum ar fi Google Maps).
+
+7. Autentificare și autorizare
+
+    - **AuthorizeView** : Componentă pentru controlul accesului la vizualizare.
+    - **CascadingAuthenticationState** : Pentru gestionarea stării de autentificare.
+
+8. Internaționalizare și localizare
+
+    - **Localization** : Resurse și componente pentru traducerea aplicației.
