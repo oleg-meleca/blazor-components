@@ -46,7 +46,7 @@ Acest proiect este licențiat sub Licența MIT.
 ## License (English)
 This project is licensed under the MIT License.
 
-## Lista de componente (RO)
+## Lista componentelor de baza (RO)
 1. Componente de bază pentru UI
 
     - **Button** : Buton simplu pentru acțiuni.
@@ -97,3 +97,56 @@ This project is licensed under the MIT License.
 8. Internaționalizare și localizare
 
     - **Localization** : Resurse și componente pentru traducerea aplicației.
+  
+
+##Lista de componente avansate - pentru a extinde funcționalitatea aplicației, utile în proiecte complexe sau aplicații comerciale:
+
+### 1. **Componente de date avansate**
+   - **TreeView** - Afișare ierarhică a datelor, utilă pentru structuri de tip arborescent.
+   - **Timeline** - Afișarea evenimentelor într-o linie temporală.
+   - **Scheduler / Calendar** - Programator de evenimente, ideal pentru aplicații de management al timpului.
+   - **Kanban Board** - Componentă pentru vizualizarea și organizarea sarcinilor.
+
+### 2. **Componente grafice și de raportare**
+   - **Heatmap** - Vizualizare a datelor în funcție de intensitate.
+   - **Pie Chart, Bar Chart, Line Chart** - Grafic pentru vizualizarea de tip sectoare, bare și linii.
+   - **Report Viewer** - Componentă pentru afișarea de rapoarte (necesită un serviciu de generare de rapoarte).
+
+### 3. **Componente de date avansate pentru formulare**
+   - **AutoComplete** - Căutare și completare automată în câmpurile de input.
+   - **Tag Input** - Permite adăugarea de etichete multiple.
+   - **Color Picker** - Selector de culori.
+   - **Range Slider** - Selector pentru intervale personalizate.
+   - **Rating** - Componentă pentru evaluarea cu stele sau note.
+
+### 4. **Componente pentru experiența utilizatorului**
+   - **Stepper** - Componentă pentru ghidarea utilizatorului prin pași succesivi.
+   - **Progress Bar** - Bară de progres, utilă pentru sarcini care durează mai mult.
+   - **Breadcrumbs** - Indicator al poziției curente în structura aplicației.
+   - **Accordions și Expander** - Organizarea conținutului într-un format pliabil.
+   - **Floating Action Button** - Buton de acțiune, folosit frecvent în aplicațiile mobile.
+
+### 5. **Componente pentru tabele și liste avansate**
+   - **MultiSelect List** - Listă cu selecție multiplă.
+   - **Virtual Scrolling** - Încărcarea dinamică a datelor în tabele și liste mari pentru performanță mai bună.
+   - **Context Menu** - Meniu contextual activat prin click-dreapta.
+   - **Filter Panel** - Panou de filtrare pentru tabele și liste de date.
+
+### 6. **Componente de integrare și interacțiune cu sistemul**
+   - **QRCode / Barcode Generator** - Generarea de coduri QR sau coduri de bare.
+   - **File Manager** - Gestionare de fișiere și foldere.
+   - **PDF Viewer** - Vizualizare și interacțiune cu fișiere PDF.
+   - **Drag-and-Drop** - Permite utilizatorilor să reordoneze elementele vizuale.
+
+### 7. **Componente pentru integrarea cu servicii externe**
+   - **Chatbot** - Componentă pentru chat (poate fi integrată cu servicii de AI).
+   - **Social Media Sharing Buttons** - Butoane de partajare pentru rețelele de socializare.
+   - **Map Viewer Avansat** - Vizualizare hărți cu opțiuni pentru puncte de interes și trasee.
+
+### 8. **Componente pentru aplicații de afaceri**
+   - **Pivot Grid** - Grilă pivot pentru analiza datelor complexe.
+   - **Financial Chart** - Grafice pentru date financiare (cum ar fi stocuri, rate de schimb etc.).
+   - **Org Chart** - Diagramă ierarhică pentru structuri organizaționale.
+   - **Rich Text Editor** - Editor avansat de text cu opțiuni de formatare.
+
+Aceste componente aduc un plus de interactivitate și sunt disponibile prin dezvoltare custom,care oferă suport extins și funcționalități avansate pentru Blazor.
